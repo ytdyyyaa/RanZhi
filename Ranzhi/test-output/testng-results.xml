@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21121" started-at="2017-11-17T06:34:23Z" finished-at="2017-11-17T06:34:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21121" started-at="2017-11-17T06:34:23Z" finished-at="2017-11-17T06:34:44Z">
+      <class name="com.user.login.LoginTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="doBeforeMethod" is-config="true" duration-ms="10201" started-at="2017-11-17T14:34:23Z" finished-at="2017-11-17T14:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeMethod -->
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="startUp" is-config="true" duration-ms="2" started-at="2017-11-17T14:34:34Z" finished-at="2017-11-17T14:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="LoginFail()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="LoginFail" duration-ms="5752" started-at="2017-11-17T14:34:34Z" finished-at="2017-11-17T14:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFail -->
+        <test-method status="PASS" signature="LoginSuccess()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="LoginSuccess" duration-ms="5133" started-at="2017-11-17T14:34:39Z" finished-at="2017-11-17T14:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccess -->
+      </class> <!-- com.user.login.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
