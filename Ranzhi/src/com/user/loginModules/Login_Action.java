@@ -1,7 +1,5 @@
 package com.user.loginModules;
 
-
-
 import com.webtest.core.WebDriverEngine;
 
 public class Login_Action {

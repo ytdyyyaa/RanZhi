@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.user.login.LoginTest">
+      <class name="com.user.work.WorkingTest">
         <methods>
+          <include name="clickbianhaobutton1"/>
           <include name="startUp"/>
-          <include name="LoginSuccess"/>
-          <include name="LoginFail"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.user.login.LoginTest -->
+      </class> <!-- com.user.work.WorkingTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

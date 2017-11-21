@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21121" started-at="2017-11-17T06:34:23Z" finished-at="2017-11-17T06:34:44Z">
+  <suite name="Default suite" duration-ms="62030" started-at="2017-11-21T03:08:53Z" finished-at="2017-11-21T03:09:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21121" started-at="2017-11-17T06:34:23Z" finished-at="2017-11-17T06:34:44Z">
-      <class name="com.user.login.LoginTest">
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="doBeforeMethod" is-config="true" duration-ms="10201" started-at="2017-11-17T14:34:23Z" finished-at="2017-11-17T14:34:34Z">
+    <test name="Default test" duration-ms="62030" started-at="2017-11-21T03:08:53Z" finished-at="2017-11-21T03:09:55Z">
+      <class name="com.user.work.WorkingTest">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="doBeforeMethod" is-config="true" duration-ms="7793" started-at="2017-11-21T11:08:53Z" finished-at="2017-11-21T11:09:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="startUp" is-config="true" duration-ms="2" started-at="2017-11-17T14:34:34Z" finished-at="2017-11-17T14:34:34Z">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="startUp" is-config="true" duration-ms="8271" started-at="2017-11-21T11:09:01Z" finished-at="2017-11-21T11:09:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="LoginFail()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="LoginFail" duration-ms="5752" started-at="2017-11-17T14:34:34Z" finished-at="2017-11-17T14:34:39Z">
+        <test-method status="PASS" signature="clickworkbutton()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="clickworkbutton" duration-ms="6498" started-at="2017-11-21T11:09:09Z" finished-at="2017-11-21T11:09:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginFail -->
-        <test-method status="PASS" signature="LoginSuccess()[pri:0, instance:com.user.login.LoginTest@1593948d]" name="LoginSuccess" duration-ms="5133" started-at="2017-11-17T14:34:39Z" finished-at="2017-11-17T14:34:44Z">
+        </test-method> <!-- clickworkbutton -->
+        <test-method status="PASS" signature="clickbianhaobutton1()[pri:1, instance:com.user.work.WorkingTest@457e2f02]" name="clickbianhaobutton1" duration-ms="6516" started-at="2017-11-21T11:09:15Z" finished-at="2017-11-21T11:09:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginSuccess -->
-      </class> <!-- com.user.login.LoginTest -->
+        </test-method> <!-- clickbianhaobutton1 -->
+        <test-method status="PASS" signature="clickbianhaobutton2()[pri:2, instance:com.user.work.WorkingTest@457e2f02]" name="clickbianhaobutton2" duration-ms="6644" started-at="2017-11-21T11:09:22Z" finished-at="2017-11-21T11:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickbianhaobutton2 -->
+        <test-method status="PASS" signature="clickPbutton1()[pri:3, instance:com.user.work.WorkingTest@457e2f02]" name="clickPbutton1" duration-ms="6705" started-at="2017-11-21T11:09:29Z" finished-at="2017-11-21T11:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPbutton1 -->
+        <test-method status="PASS" signature="clickPbutton2()[pri:4, instance:com.user.work.WorkingTest@457e2f02]" name="clickPbutton2" duration-ms="6552" started-at="2017-11-21T11:09:35Z" finished-at="2017-11-21T11:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickPbutton2 -->
+        <test-method status="PASS" signature="clickNamebutton1()[pri:5, instance:com.user.work.WorkingTest@457e2f02]" name="clickNamebutton1" duration-ms="6546" started-at="2017-11-21T11:09:42Z" finished-at="2017-11-21T11:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNamebutton1 -->
+        <test-method status="PASS" signature="clickNamebutton2()[pri:6, instance:com.user.work.WorkingTest@457e2f02]" name="clickNamebutton2" duration-ms="6459" started-at="2017-11-21T11:09:48Z" finished-at="2017-11-21T11:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickNamebutton2 -->
+      </class> <!-- com.user.work.WorkingTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -8,14 +8,15 @@ import org.testng.annotations.Test;
 import com.user.loginModules.Login_Action;
 import com.webtest.core.BaseTest;
 
-public class LoginTest extends BaseTest{
-	
+public class LoginTest extends BaseTest {
+
 	Login_Action login = null;
 
 	@BeforeClass
 	public void startUp() {
 		login = new Login_Action(webtest);
 	}
+
 	@Test
 	public void LoginSuccess() {
 		login.loginByFront("dyc1", "123456");
