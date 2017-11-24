@@ -1,49 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62030" started-at="2017-11-21T03:08:53Z" finished-at="2017-11-21T03:09:55Z">
+  <suite name="Default suite" duration-ms="31110" started-at="2017-11-24T00:15:11Z" finished-at="2017-11-24T00:15:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62030" started-at="2017-11-21T03:08:53Z" finished-at="2017-11-21T03:09:55Z">
-      <class name="com.user.work.WorkingTest">
-        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="doBeforeMethod" is-config="true" duration-ms="7793" started-at="2017-11-21T11:08:53Z" finished-at="2017-11-21T11:09:01Z">
+    <test name="Default test" duration-ms="31110" started-at="2017-11-24T00:15:11Z" finished-at="2017-11-24T00:15:42Z">
+      <class name="com.admin.team.Settings">
+        <test-method status="PASS" signature="doBeforeMethod()[pri:0, instance:com.admin.team.Settings@6767c1fc]" name="doBeforeMethod" is-config="true" duration-ms="7689" started-at="2017-11-24T08:15:11Z" finished-at="2017-11-24T08:15:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doBeforeMethod -->
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="startUp" is-config="true" duration-ms="8271" started-at="2017-11-21T11:09:01Z" finished-at="2017-11-21T11:09:09Z">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.admin.team.Settings@6767c1fc]" name="startUp" is-config="true" duration-ms="7101" started-at="2017-11-24T08:15:19Z" finished-at="2017-11-24T08:15:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="clickworkbutton()[pri:0, instance:com.user.work.WorkingTest@457e2f02]" name="clickworkbutton" duration-ms="6498" started-at="2017-11-21T11:09:09Z" finished-at="2017-11-21T11:09:15Z">
+        <test-method status="PASS" signature="clickteambutton()[pri:0, instance:com.admin.team.Settings@6767c1fc]" name="clickteambutton" duration-ms="3489" started-at="2017-11-24T08:15:26Z" finished-at="2017-11-24T08:15:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clickworkbutton -->
-        <test-method status="PASS" signature="clickbianhaobutton1()[pri:1, instance:com.user.work.WorkingTest@457e2f02]" name="clickbianhaobutton1" duration-ms="6516" started-at="2017-11-21T11:09:15Z" finished-at="2017-11-21T11:09:22Z">
+        </test-method> <!-- clickteambutton -->
+        <test-method status="PASS" signature="deleteBumen()[pri:0, instance:com.admin.team.Settings@6767c1fc]" name="deleteBumen" duration-ms="3099" started-at="2017-11-24T08:15:29Z" finished-at="2017-11-24T08:15:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clickbianhaobutton1 -->
-        <test-method status="PASS" signature="clickbianhaobutton2()[pri:2, instance:com.user.work.WorkingTest@457e2f02]" name="clickbianhaobutton2" duration-ms="6644" started-at="2017-11-21T11:09:22Z" finished-at="2017-11-21T11:09:29Z">
+        </test-method> <!-- deleteBumen -->
+        <test-method status="PASS" signature="clicksettingbutton()[pri:1, instance:com.admin.team.Settings@6767c1fc]" name="clicksettingbutton" duration-ms="6405" started-at="2017-11-24T08:15:32Z" finished-at="2017-11-24T08:15:39Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clickbianhaobutton2 -->
-        <test-method status="PASS" signature="clickPbutton1()[pri:3, instance:com.user.work.WorkingTest@457e2f02]" name="clickPbutton1" duration-ms="6705" started-at="2017-11-21T11:09:29Z" finished-at="2017-11-21T11:09:35Z">
+        </test-method> <!-- clicksettingbutton -->
+        <test-method status="PASS" signature="dataAddBankuai(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.admin.team.Settings@6767c1fc]" name="dataAddBankuai" duration-ms="3279" started-at="2017-11-24T08:15:39Z" data-provider="Bankuai" finished-at="2017-11-24T08:15:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[橘子]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[苹果]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[桃子]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- clickPbutton1 -->
-        <test-method status="PASS" signature="clickPbutton2()[pri:4, instance:com.user.work.WorkingTest@457e2f02]" name="clickPbutton2" duration-ms="6552" started-at="2017-11-21T11:09:35Z" finished-at="2017-11-21T11:09:42Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickPbutton2 -->
-        <test-method status="PASS" signature="clickNamebutton1()[pri:5, instance:com.user.work.WorkingTest@457e2f02]" name="clickNamebutton1" duration-ms="6546" started-at="2017-11-21T11:09:42Z" finished-at="2017-11-21T11:09:48Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickNamebutton1 -->
-        <test-method status="PASS" signature="clickNamebutton2()[pri:6, instance:com.user.work.WorkingTest@457e2f02]" name="clickNamebutton2" duration-ms="6459" started-at="2017-11-21T11:09:48Z" finished-at="2017-11-21T11:09:55Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- clickNamebutton2 -->
-      </class> <!-- com.user.work.WorkingTest -->
+        </test-method> <!-- dataAddBankuai -->
+      </class> <!-- com.admin.team.Settings -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -953,3 +953,550 @@ Session ID: 166c933b-d447-4c07-a8d1-8b4d5d0bfb14
 [INFO ] 2017-11-21 11:09:48,927 com.webtest.util.Log - Left the iframe
 [INFO ] 2017-11-21 11:09:51,994 com.webtest.util.Log - Entered iframe iframe-dashboard
 [INFO ] 2017-11-21 11:09:55,390 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-21 14:12:20,523 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 14:12:20,561 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 14:12:24,818 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-21 14:12:35,446 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-21 14:12:35,656 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//img[start-with(@id,'zui.calendar')]/div[3]/div/table/tbody/tr[4]/td[2]/div/div[2]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.tblP4oiKQnbe, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19896, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e7bc0cdc-3ae7-4831-adb5-d304fc5cb1ab
+*** Element info: {Using=xpath, value=//img[start-with(@id,'zui.calendar')]/div[3]/div/table/tbody/tr[4]/td[2]/div/div[2]}
+[INFO ] 2017-11-21 14:12:35,688 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-21 14:13:08,077 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-21 14:13:08,082 com.webtest.util.Log - firefox
+[INFO ] 2017-11-21 14:13:11,801 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:26:51,108 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:26:51,125 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:26:54,518 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:27:04,874 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:27:04,964 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//img[start-with(@id,'zui.calendar')]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SUpo590ZZfyf, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15504, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: d55a8f15-c064-404b-ad00-0d832c34de74
+*** Element info: {Using=xpath, value=//img[start-with(@id,'zui.calendar')]}
+[INFO ] 2017-11-23 14:27:04,980 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:30:40,178 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:30:40,199 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:30:43,908 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:30:54,113 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:30:54,140 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//div[start-with(@id,'zui.calendar')]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.rjYZROyYQPTJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6784, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: eeef871f-9dd3-4e2c-87fc-494e3eb77da2
+*** Element info: {Using=xpath, value=//div[start-with(@id,'zui.calendar')]}
+[INFO ] 2017-11-23 14:30:54,156 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:38:19,413 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:38:19,430 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:38:22,855 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:38:32,916 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:38:32,945 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//xpath[start-with(@id,'zui.calendar')]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.847cSfjtX1gN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12368, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a3f947ce-6b88-4016-a567-e45534c1ee0e
+*** Element info: {Using=xpath, value=//xpath[start-with(@id,'zui.calendar')]}
+[INFO ] 2017-11-23 14:38:32,961 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:39:20,350 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:39:20,360 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:39:24,202 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:39:34,248 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:39:34,293 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//div[start-with(@id,'zui.calendar')]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.GoimJQffwQVZ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11636, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4ed9dbd4-61d7-4d04-831c-0a76b072f079
+*** Element info: {Using=xpath, value=//div[start-with(@id,'zui.calendar')]}
+[INFO ] 2017-11-23 14:39:34,324 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:40:02,814 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:40:02,824 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:40:07,284 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:40:17,267 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:40:17,286 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression "//[start-with(@id,'zui.calendar')]" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.co9CbqyB0LrP, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=9964, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ce92dfc7-ed77-4554-904d-893c12747c2b
+*** Element info: {Using=xpath, value=//[start-with(@id,'zui.calendar')]}
+[INFO ] 2017-11-23 14:40:17,286 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:41:17,609 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:41:17,626 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:41:21,044 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:41:31,050 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:41:31,078 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: //*[@id='zui.calendar']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7XDzEd55QmBp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=4684, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1fb31533-5047-4cb5-9b36-bb59912c20ae
+*** Element info: {Using=xpath, value=//*[@id='zui.calendar']}
+[INFO ] 2017-11-23 14:41:31,093 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:43:03,100 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:43:03,104 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:43:06,499 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:43:16,604 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:43:16,626 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='zui.calendar']/div[3]/div/table/tbody/tr[5]/td[3]/div/div[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.WVgWYUo7rt3j, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12676, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 144dc502-ee7d-42aa-8a63-9fab781d147f
+*** Element info: {Using=xpath, value=.//*[@id='zui.calendar']/div[3]/div/table/tbody/tr[5]/td[3]/div/div[2]}
+[INFO ] 2017-11-23 14:43:16,642 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:46:38,900 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:46:38,906 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:46:51,571 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:47:01,623 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:47:04,881 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:47:36,455 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:47:36,462 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:47:42,775 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:47:52,813 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:47:56,121 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 14:52:09,571 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 14:52:09,585 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 14:52:13,124 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 14:52:23,153 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 14:52:26,607 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:13:26,889 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:13:26,894 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:13:31,777 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:13:41,764 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:13:45,164 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:13:45,233 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='types0']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Myc5aPA7k4Io, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17628, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 48464d57-42d4-4517-a0cc-3c1f0defef6a
+*** Element info: {Using=xpath, value=.//*[@id='types0']}
+[INFO ] 2017-11-23 15:15:44,601 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:15:44,609 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:15:48,148 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:15:58,473 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:16:01,880 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:16:04,943 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:17:03,175 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:17:03,191 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:17:06,786 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:17:16,806 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:17:20,209 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:17:23,235 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:17:23,668 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:19:49,615 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:19:49,627 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:19:53,024 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:20:03,336 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:20:06,728 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:20:09,776 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:20:10,312 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:20:13,391 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:24:09,480 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:24:09,491 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:24:13,168 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:24:23,209 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:24:26,614 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:24:29,665 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:24:30,092 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:24:33,107 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:24:36,403 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:27:13,823 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:27:13,831 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:27:17,313 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:27:27,344 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:27:30,769 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:27:33,819 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:27:34,260 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:27:37,323 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:27:40,609 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:27:43,664 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:27:43,687 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='switchDate0']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.cGnV3bysTnwz, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10080, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4b4d8e9e-4d23-47b4-9986-6d04306ce961
+*** Element info: {Using=xpath, value=.//*[@id='switchDate0']}
+[INFO ] 2017-11-23 15:27:43,687 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:38:19,218 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:38:19,228 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:38:22,648 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:38:32,581 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:38:35,973 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:38:39,018 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:38:39,454 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:38:42,500 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:38:45,797 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:38:48,869 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:38:48,891 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='switchDate0']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.6GP2WTrNIUbt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20044, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 24b5f62b-8934-4735-b3b3-56e42ecde0ad
+*** Element info: {Using=xpath, value=.//*[@id='switchDate0']}
+[INFO ] 2017-11-23 15:38:48,907 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:38:51,954 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:38:51,967 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='pris0']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.6GP2WTrNIUbt, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20044, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 24b5f62b-8934-4735-b3b3-56e42ecde0ad
+*** Element info: {Using=xpath, value=.//*[@id='pris0']}
+[INFO ] 2017-11-23 15:41:48,062 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:41:48,070 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:41:51,443 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:42:01,732 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:42:05,131 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:42:08,151 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:42:08,614 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:02,251 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:43:02,260 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:43:05,898 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:43:15,977 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:19,457 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:22,500 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:22,937 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:25,984 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:29,261 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:32,304 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:32,642 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:35,673 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:35,989 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:39,036 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:39,198 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:43:42,261 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:43:45,553 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 15:47:39,785 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:47:39,801 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:47:43,302 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:47:53,774 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-11-23 15:52:34,928 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:52:34,942 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:52:38,460 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:55:46,032 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:55:46,036 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:55:49,850 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:55:53,658 com.webtest.util.Log - linkText=设置can't find element by prefix.
+[INFO ] 2017-11-23 15:57:01,205 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:57:01,221 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:57:04,799 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:57:12,094 com.webtest.util.Log - linkText=设置can't find element by prefix.
+[INFO ] 2017-11-23 15:57:48,823 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:57:48,829 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:57:52,367 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:57:59,586 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='mainNavbar']/ul/li[6]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Q6h7dWWk8uqW, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=5172, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7e5ff963-d931-4a45-aecf-2197c04a7885
+*** Element info: {Using=xpath, value=.//*[@id='mainNavbar']/ul/li[6]/a}
+[INFO ] 2017-11-23 15:59:27,155 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 15:59:27,160 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 15:59:30,795 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 15:59:41,200 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 15:59:44,649 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 16:18:04,249 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 16:18:04,255 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 16:35:06,070 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 16:35:06,074 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 16:35:09,610 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 16:35:19,710 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 16:35:23,096 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 16:38:01,156 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 16:38:01,161 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 16:38:04,777 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 16:38:15,583 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 16:38:18,997 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 16:38:19,059 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[38]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[38]']}
+[INFO ] 2017-11-23 16:38:19,090 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:38:19,113 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression ".//*[@id='children[]']']" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[]']']}
+[INFO ] 2017-11-23 16:38:19,149 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[38]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[38]']}
+[INFO ] 2017-11-23 16:38:19,169 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:38:19,189 com.webtest.util.Log - org.openqa.selenium.InvalidSelectorException: Given xpath expression ".//*[@id='children[]']']" is invalid: SyntaxError: The expression is not a legal expression.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7hoQIIU2gZvG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17900, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 411f090b-f129-4a00-afc5-21f54cd96b6e
+*** Element info: {Using=xpath, value=.//*[@id='children[]']']}
+[INFO ] 2017-11-23 16:46:47,548 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 16:46:47,552 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 16:46:51,227 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 16:47:01,312 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 16:47:04,726 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 16:47:04,787 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[38]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[38]']}
+[INFO ] 2017-11-23 16:47:04,806 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:47:04,826 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:47:04,856 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[38]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[38]']}
+[INFO ] 2017-11-23 16:47:04,879 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:47:04,896 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='children[]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.TXvpWgGOfDYJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17876, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7c9ed7cb-b59d-4642-83bb-2479e4599c5b
+*** Element info: {Using=xpath, value=.//*[@id='children[]']}
+[INFO ] 2017-11-23 16:57:17,081 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 16:57:17,085 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 16:57:20,737 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 16:57:31,164 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 16:57:31,191 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.NTpZD0DIoGrv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14384, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b22c9c06-5013-48df-912a-41b3b021d4da
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-23 16:57:31,214 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='treeMenuBox']/ul/li[4]/a[3]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.NTpZD0DIoGrv, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14384, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b22c9c06-5013-48df-912a-41b3b021d4da
+*** Element info: {Using=xpath, value=.//*[@id='treeMenuBox']/ul/li[4]/a[3]}
+[INFO ] 2017-11-23 16:57:31,230 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 16:57:34,267 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 16:57:37,728 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:00:51,455 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:00:51,459 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:00:54,959 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:09:26,348 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:09:26,354 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:09:30,354 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:09:40,795 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:09:40,796 com.webtest.util.Log - linkText=维护部门can't find element by prefix.
+[INFO ] 2017-11-23 17:09:40,809 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:09:43,847 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:09:47,226 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:13:16,229 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:13:16,232 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:13:19,925 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:13:30,553 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:13:30,608 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.nieyYfa77TeY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20184, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3ecb62ba-691c-4748-ad1d-615a39915457
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-23 17:13:30,652 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:13:33,724 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:13:37,164 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:14:43,355 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:14:43,359 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:14:47,018 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:14:54,268 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.tPRsqcXgdzCI, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18988, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 105d9287-f0c5-47d0-920f-5e09ca89c364
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-23 17:14:57,336 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:15:00,795 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:16:21,301 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:16:21,306 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:16:24,914 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:16:28,761 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.7OXkzsjC3stj, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20948, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0ed8fe49-fbcf-422a-934c-619cef0eea12
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-23 17:17:09,847 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:17:09,855 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:17:13,378 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:17:20,617 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.IZTzeNpzeuWY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=22268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 39c436e8-52e7-4100-a1ca-3b266cf1b053
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-23 17:17:23,684 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:17:27,185 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:22:18,551 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:22:18,558 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:22:22,307 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:22:35,351 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:22:38,847 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:22:38,884 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[38]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.PaOsIqMk1uKc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3888, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 46c548b8-6c8b-4915-b403-ffdcbec82926
+*** Element info: {Using=name, value=children[38]}
+[INFO ] 2017-11-23 17:22:38,909 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[39]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.PaOsIqMk1uKc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3888, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 46c548b8-6c8b-4915-b403-ffdcbec82926
+*** Element info: {Using=name, value=children[39]}
+[INFO ] 2017-11-23 17:22:38,929 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[40]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.PaOsIqMk1uKc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3888, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 46c548b8-6c8b-4915-b403-ffdcbec82926
+*** Element info: {Using=name, value=children[40]}
+[INFO ] 2017-11-23 17:23:46,959 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:23:46,962 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:23:50,403 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:24:00,727 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:24:04,216 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:24:07,303 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:24:07,534 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:25:11,726 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-23 17:25:11,731 com.webtest.util.Log - firefox
+[INFO ] 2017-11-23 17:25:15,229 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-23 17:25:25,633 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:25:29,114 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:25:32,229 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:25:32,452 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-23 17:25:35,491 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-23 17:25:35,701 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:08:37,064 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-24 08:08:37,101 com.webtest.util.Log - firefox
+[INFO ] 2017-11-24 08:08:40,535 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-24 08:08:50,850 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:08:54,220 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:08:57,352 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:08:57,537 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:11:06,517 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-24 08:11:06,522 com.webtest.util.Log - firefox
+[INFO ] 2017-11-24 08:11:09,988 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-24 08:11:20,744 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:11:24,132 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:12:05,591 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-24 08:12:05,603 com.webtest.util.Log - firefox
+[INFO ] 2017-11-24 08:12:09,096 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-24 08:12:19,454 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:12:22,804 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:12:25,973 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:12:26,422 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:15:18,966 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-11-24 08:15:18,974 com.webtest.util.Log - firefox
+[INFO ] 2017-11-24 08:15:22,468 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-11-24 08:15:32,680 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:15:32,702 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: html/body/nav[2]/ul/li[3]/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.QvNSH5fr153s, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=12264, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5008eb2a-b59d-48f2-8e7f-10f7811d7c8a
+*** Element info: {Using=xpath, value=html/body/nav[2]/ul/li[3]/a}
+[INFO ] 2017-11-24 08:15:32,718 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:15:35,735 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:15:39,123 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-11-24 08:15:42,240 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-11-24 08:15:42,424 com.webtest.util.Log - Left the iframe
