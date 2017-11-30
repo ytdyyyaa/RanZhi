@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name ="javacTest" default="transform" basedir=".">
+	<!-- 定义全局变量 -->
+	<!--将与业务实现有关的路径都设置为全局变量-->
+	<property name="dest" value="build/classes" />
+	<property name="testng.output.dir" value="test-output"/>
+	<property name="lib.dir" value="lib" />
+	 <!-- 定义类路径 -->
+	<path id="classes">
+	     <fileset dir="lib" includes="*.jar"/>
+		 <pathelement location="${dest}"/>
+	</path>
+	    <path id="reportxsl.classpath" >
+	         <!-- adding the saxon jar to your classpath -->
+	        <fileset dir="${lib.dir}" includes="*.jar" />
+	</path>
+	
+	<taskdef resource="testngtasks" classpath="lib/org.testng_6.12.0.r201709030044.jar"/>  
+	
+    <target name="clean">
+        <delete dir="${dest}"/>
+    </target>
+    <!-- 编译 src目录 -->
+    <target name="compile"  depends ="clean">
+     <copy todir="${dest}">  
+        <fileset dir="src">  
+            <include name="**/*.xml"/>      
+       </fileset>  
+    </copy>
+	<mkdir dir ="${dest}"/>
+    	  <javac srcdir="src" destdir="${dest}"  classpathref="classes" includeantruntime="on"/>
+    </target>
+    <!-- 运行xml文档 -->
+    <target name="run"  depends ="compile">
+    	<testng outputdir="${testng.output.dir}" classpathref="classes" >
+    	 	<xmlfileset dir="." includes="testng.xml"/>
+    	</testng>
+    </target>
+	<target name="transform" depends ="run">
+		<xslt in="F:\da3shang\shixun\Ranzhi\test-output\testng-results.xml"
+			  style="F:\da3shang\shixun\Ranzhi\testng-results.xsl"
+			  out="F:\da3shang\shixun\Ranzhi\test-\index.html" >
+	    	<param name="testNgXslt.outputDir" expression="F:\da3shang\shixun\Ranzhi\test-" />
+			<classpath refid="reportxsl.classpath" />
+	    </xslt>
+	</target>
+</project>

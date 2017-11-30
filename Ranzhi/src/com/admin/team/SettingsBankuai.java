@@ -9,8 +9,9 @@ import com.user.loginModules.Login_Action;
 import com.webtest.core.BaseTest;
 
 import Data.Bankuai;
+import Data.Children;
 
-public class Settings extends BaseTest {
+public class SettingsBankuai extends BaseTest {
 	Login_Action login = null;
 
 	@BeforeClass
@@ -23,27 +24,33 @@ public class Settings extends BaseTest {
 	@Test(priority = 0)
 	public void clickteambutton() {
 		// 点击团队，进入团队页面
+		System.out.println("num1");
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
+		assertTrue(webtest.getHtmlSource().contains("最新帖子"));
 	}
 
 	@Test(priority = 1)
 	public void clicksettingbutton() {
 		// 点击设置按钮
+		System.out.println("num2");
 		webtest.enterFrame("iframe-6");
 		webtest.click("xpath=.//*[@id='mainNavbar']/ul/li[6]/a");
+		assertTrue(webtest.getHtmlSource().contains("论坛版块"));
 		webtest.leaveFrame();
 	}
 
-	@Test(dataProvider = "Bankuai", priority = 2, dataProviderClass = Bankuai.class)
-	public void dataAddBankuai(String bk1, String bk2, String bk3) {
-		// 使用数据驱动的方式，添加板块
-		webtest.enterFrame("iframe-6");
-		webtest.type("name=children[38]", bk1);
-		webtest.type("name=children[39]", bk2);
-		webtest.type("name=children[40]", bk3);
-		webtest.leaveFrame();
-
-	}
+	 @Test(dataProvider = "Bankuai", priority = 2, dataProviderClass =
+	 Bankuai.class)
+	 public void dataAddBankuai(String bk1, String bk2, String bk3) {
+	 // 使用数据驱动的方式，添加板块
+	 webtest.enterFrame("iframe-6");
+	 webtest.type("name=children[38]", bk1);
+	 webtest.type("name=children[39]", bk2);
+	 webtest.type("name=children[40]", bk3);
+	 webtest.click("xpath=.//*[@id='submit']");
+	 webtest.leaveFrame();
+	
+	 }
 
 	// @Test( priority = 2)
 	// public void dataAddBankuai() {
@@ -54,13 +61,5 @@ public class Settings extends BaseTest {
 	// webtest.type("name=children[40]", "bk3");
 	// webtest.leaveFrame();
 	// }
-
-//	 @Test
-//	 public void deleteBumen() {
-//	 // 删除部门
-//		 webtest.enterFrame("iframe-6");
-//	 webtest.click("xpath=html/body/nav[2]/ul/li[3]/a");
-//	 webtest.leaveFrame();
-//	 }
 
 }
