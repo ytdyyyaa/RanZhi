@@ -21,50 +21,58 @@ public class SettingsBoke extends BaseTest {
 	}
 
 	@Test(priority = 0)
-	public void clickteambutton() {
+	public void before() {
 		// 点击团队，进入团队页面
-		System.out.println("num1");
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
 		assertTrue(webtest.getHtmlSource().contains("最新帖子"));
-	}
-
-	@Test(priority = 1)
-	public void clicksettingbutton() {
 		// 点击设置按钮
-		System.out.println("num2");
 		webtest.enterFrame("iframe-6");
 		webtest.click("xpath=.//*[@id='mainNavbar']/ul/li[6]/a");
 		assertTrue(webtest.getHtmlSource().contains("论坛版块"));
 		webtest.leaveFrame();
-	}
-	
-	@Test(priority = 2)
-	public void ClickBoke() {
 		// 点击博客类目按钮
-		System.out.println("num3");
 		webtest.enterFrame("iframe-6");
 		webtest.click("xpath=html/body/nav[2]/ul/li[2]/a");
 		assertTrue(webtest.getHtmlSource().contains("子类目"));
 		webtest.leaveFrame();
 	}
-	
-	@Test(priority = 3)
-	public void BianjiBoke(){
-		//编辑博客类目
-		System.out.println("num4");
+
+	@Test(priority = 1, dependsOnMethods = "before")
+	public void addLeimu() {
+		// 添加博客类目
+		webtest.enterFrame("iframe-6");
+		webtest.type("name=children[14]", "类目14");
+		webtest.type("name=children[15]", "类目15");
+		webtest.type("name=children[16]", "类目16");
+		webtest.type("name=children[17]", "类目17");
+		webtest.click("xpath=.//*[@id='submit']");
+		webtest.leaveFrame();
+	}
+
+	@Test(priority = 1, dependsOnMethods = "before")
+	public void BianjiBoke() {
+		// 编辑“包子”博客类目
 		webtest.enterFrame("iframe-6");
 		webtest.click("xpath=.//*[@id='treeMenuBox']/ul/li[1]/a[1]");
 		webtest.click("xpath=.//*[@id='parent_chosen']/a/div");
 		webtest.click("xpath=.//*[@id='parent_chosen']/div/ul/li[2]");
-		//博客类目描述输入不进去
-//		webtest.tabPress();
-//		webtest.tabPress();
-//		webtest.type("tag=html", "博客类目的描述");
 		webtest.click("xpath=.//*[@id='users_chosen']/ul");
 		webtest.click("xpath=.//*[@id='users_chosen']/div/ul/li[2]");
 		webtest.click("xpath=.//*[@id='rights1']");
 		webtest.click("xpath=.//*[@id='rights3']");
 		webtest.click("xpath=.//*[@id='rights10']");
+		webtest.click("xpath=.//*[@id='submit']");
+		webtest.leaveFrame();
+	}
+	
+	@Test(priority = 2, dependsOnMethods = "before")
+	public void AddZileimu() {
+		// 添加“饺子”的子类目
+		webtest.enterFrame("iframe-6");
+		webtest.click("xpath=.//*[@id='treeMenuBox']/ul/li[2]/a[2]");
+		webtest.type("name=children[1]", "子类目1");
+		webtest.type("name=children[2]", "子类目2");
+		webtest.type("name=children[3]", "子类目3");
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();
 	}

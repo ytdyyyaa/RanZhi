@@ -9,7 +9,6 @@
 	<test name="Test">
 		<classes>
 			<class name="com.admin.login.LoginTest" />
-			<class name="com.admin.login.LoginTest" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

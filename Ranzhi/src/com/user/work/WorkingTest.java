@@ -15,6 +15,7 @@ public class WorkingTest extends BaseTest {
 	public void startUp() {
 		login = new Login_Action(webtest);
 		login.loginByFront("dyc1", "123456");
+		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
 	@Test(priority = 0)
@@ -73,5 +74,17 @@ public class WorkingTest extends BaseTest {
 		webtest.click("xpath=.//*[@id='taskList']/thead/tr/th[3]/div/a");
 		webtest.leaveFrame();
 	}
+
+	@Test(priority = 7)
+	public void clickQuanxbutton() {
+		// 点击全选按钮
+		webtest.enterFrame("iframe-dashboard");
+		webtest.click("xpath=.//*[@id='allchecker']");
+		// 点击反选按钮
+		webtest.enterFrame("iframe-dashboard");
+		webtest.click("xpath=.//*[@id='reversechecker']");
+		webtest.leaveFrame();
+	}
+
 
 }

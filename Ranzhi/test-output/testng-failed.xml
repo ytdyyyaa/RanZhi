@@ -3,13 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.admin.team.SettingsBumen">
+      <class name="com.admin.team.SettingsRole">
         <methods>
+          <include name="before"/>
           <include name="startUp"/>
-          <include name="DeleteBumen"/>
+          <include name="addRole"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.admin.team.SettingsBumen -->
+      </class> <!-- com.admin.team.SettingsRole -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

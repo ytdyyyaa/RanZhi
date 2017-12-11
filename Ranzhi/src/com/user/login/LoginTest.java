@@ -6,15 +6,16 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.user.loginModules.Login_Action;
+import com.user.loginModules.Login_PageObject;
 import com.webtest.core.BaseTest;
 
 public class LoginTest extends BaseTest {
 
-	Login_Action login = null;
+	Login_PageObject login = null;
 
 	@BeforeClass
 	public void startUp() {
-		login = new Login_Action(webtest);
+		login = new Login_PageObject(webtest);
 	}
 
 	@Test

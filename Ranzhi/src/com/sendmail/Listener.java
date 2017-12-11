@@ -27,6 +27,7 @@ public class Listener extends TestListenerAdapter {
 		String msg = result.getName() + " failed";
 		sendmailTest a = new sendmailTest();
 		try {
+			// 发送邮件的标题和内容
 			a.sendMail("运行失败的方法", msg);
 		} catch (MessagingException e) {
 			// TODO Auto-generated catch block

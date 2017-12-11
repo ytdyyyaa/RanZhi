@@ -2184,3 +2184,952 @@ Session ID: 8391055e-9c6c-45cd-9c5d-93bc5d4faa30
 [INFO ] 2017-11-30 17:18:11,207 com.webtest.util.Log - Entered iframe iframe-6
 [INFO ] 2017-11-30 17:18:18,201 com.webtest.util.Log - Left the iframe
 [INFO ] 2017-11-30 17:18:21,253 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:20:43,695 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:20:43,764 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:20:47,225 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:20:57,482 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:21:00,951 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:21:04,070 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:21:10,675 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:21:13,722 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:21:30,233 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:21:33,295 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:21:33,534 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:21:36,581 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:21:43,389 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:21:46,451 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:27:03,710 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:27:03,714 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:27:07,993 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:27:49,848 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:27:49,877 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:27:53,417 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:28:03,726 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:28:07,206 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:28:10,302 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:28:17,035 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:28:20,148 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:28:20,349 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:28:23,427 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:30:58,206 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:30:58,213 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:31:30,899 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:31:41,331 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:31:44,799 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:31:47,883 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:31:54,597 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:31:57,689 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:31:57,851 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:32:00,914 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:32:04,155 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:40:16,501 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:40:16,512 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:40:20,038 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:40:30,478 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:40:33,919 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:40:36,989 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:40:43,734 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:40:46,791 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:40:49,830 com.webtest.util.Log - Entered iframe 0
+[INFO ] 2017-12-01 10:40:49,914 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:40:52,961 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:40:56,126 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:44:57,768 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:44:57,779 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:45:01,523 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:45:11,747 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:45:15,219 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:45:18,295 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:45:24,918 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:45:27,987 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:45:31,005 com.webtest.util.Log - Entered iframe 0
+[INFO ] 2017-12-01 10:45:31,146 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:46:54,126 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:46:54,139 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:46:58,585 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:47:09,209 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:47:12,646 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:47:15,717 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:47:22,338 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:47:25,406 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:47:28,787 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:48:15,598 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:48:15,613 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:48:19,310 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:48:29,521 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:48:32,879 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:48:35,943 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:48:42,611 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:48:45,682 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:48:49,099 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:51:52,206 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:51:52,210 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:51:55,759 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:53:10,389 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:53:10,404 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:53:13,821 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:53:23,965 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:53:27,345 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:53:30,384 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:53:36,998 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:53:40,090 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:53:46,778 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:56:40,656 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:56:40,671 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:56:44,308 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:56:54,552 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:56:58,033 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:57:01,107 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:57:07,772 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:57:10,839 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 10:57:20,832 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 10:59:43,597 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 10:59:43,602 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 10:59:47,095 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 10:59:57,471 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:00:00,955 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:00:04,004 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:00:10,713 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:00:13,789 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:00:20,626 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:03:50,657 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:03:50,657 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:03:50,672 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:03:50,678 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:03:54,692 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 11:04:05,875 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:04:13,501 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:04:16,576 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:04:29,818 com.webtest.util.Log - xpapth=.//*[@id='groups1']can't find element by prefix.
+[INFO ] 2017-12-01 11:04:30,212 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:06:32,193 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:06:32,208 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:06:35,575 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 11:06:45,736 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:06:53,339 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:06:56,448 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:07:09,691 com.webtest.util.Log - xpapth=.//*[@id='groups1']can't find element by prefix.
+[INFO ] 2017-12-01 11:07:13,204 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:10:26,553 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:10:26,558 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:10:30,348 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 11:10:40,797 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:10:48,346 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:10:51,435 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:11:04,578 com.webtest.util.Log - xpapth=.//*[@id='groups1']can't find element by prefix.
+[INFO ] 2017-12-01 11:11:07,754 com.webtest.util.Log - Entered iframe 0
+[INFO ] 2017-12-01 11:11:07,854 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='submit']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.KiVJyJL3pBkn, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18296, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8df7c4e7-0eba-48fe-82bd-e4f0dbba021c
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-12-01 11:12:15,068 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 11:12:15,084 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 11:12:18,844 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 11:12:28,937 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:12:36,751 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 11:12:39,836 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 11:12:53,051 com.webtest.util.Log - xpapth=.//*[@id='groups1']can't find element by prefix.
+[INFO ] 2017-12-01 13:58:37,595 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 13:58:37,618 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 13:58:41,909 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 13:58:53,152 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 13:58:56,877 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 13:58:59,931 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 13:59:03,462 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:09:45,555 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 14:09:45,572 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 14:09:49,423 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 14:10:00,039 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 14:10:03,524 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:10:06,634 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 14:10:10,765 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:27:36,431 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 14:27:36,442 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 14:27:40,005 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 14:27:50,396 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 14:27:53,858 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:27:56,911 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 14:28:23,471 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:40:17,193 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 14:40:17,200 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 14:40:21,268 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 14:40:31,475 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-01 14:40:34,984 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:40:35,025 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='treeMenuBox']/ul/li[2]/a[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SIFxmMjAVfBj, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21068, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: cd404833-6c20-4804-9e74-fb90643e0872
+*** Element info: {Using=xpath, value=.//*[@id='treeMenuBox']/ul/li[2]/a[2]}
+[INFO ] 2017-12-01 14:40:35,056 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[1]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SIFxmMjAVfBj, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21068, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: cd404833-6c20-4804-9e74-fb90643e0872
+*** Element info: {Using=name, value=children[1]}
+[INFO ] 2017-12-01 14:40:35,087 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[2]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SIFxmMjAVfBj, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21068, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: cd404833-6c20-4804-9e74-fb90643e0872
+*** Element info: {Using=name, value=children[2]}
+[INFO ] 2017-12-01 14:40:35,119 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[3]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SIFxmMjAVfBj, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21068, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: cd404833-6c20-4804-9e74-fb90643e0872
+*** Element info: {Using=name, value=children[3]}
+[INFO ] 2017-12-01 14:48:48,767 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 14:48:48,783 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 14:48:52,634 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 14:49:02,859 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:06,303 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:09,402 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:10,019 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:13,081 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:13,466 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:16,528 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:16,915 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:19,978 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:20,158 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:23,220 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:26,513 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 14:49:29,550 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 14:49:32,977 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:07,385 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 15:07:07,398 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 15:07:11,226 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 15:07:22,734 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:26,181 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:29,230 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:29,795 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:32,874 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:33,277 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:36,324 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:36,738 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:39,816 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:39,954 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:43,032 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:46,368 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:49,409 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:52,746 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:07:55,838 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:07:59,171 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='triggerModal']/div[2]/div/div[2]/div/div/div[1]/div[2]/span/a[3]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.uAIXMi0MXkns, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14796, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 490a33b8-00c5-46e4-be6b-1493f23cc8af
+*** Element info: {Using=xpath, value=.//*[@id='triggerModal']/div[2]/div/div[2]/div/div/div[1]/div[2]/span/a[3]}
+[INFO ] 2017-12-01 15:07:59,195 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='pri']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.uAIXMi0MXkns, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=14796, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 490a33b8-00c5-46e4-be6b-1493f23cc8af
+*** Element info: {Using=name, value=pri}
+[INFO ] 2017-12-01 15:46:28,520 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-01 15:46:28,540 com.webtest.util.Log - firefox
+[INFO ] 2017-12-01 15:46:32,345 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-01 15:46:42,466 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:46:45,959 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:46:49,054 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:46:49,597 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:46:52,675 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:46:53,048 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:46:56,064 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:46:56,443 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:46:59,490 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:46:59,596 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:47:02,768 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:47:06,089 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-01 15:47:09,133 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-01 15:47:12,463 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:27:59,735 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 12:27:59,808 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 12:28:03,251 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-05 12:28:07,051 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-6']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.RnRKz5irmlC5, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=23344, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ed2c504c-b3a1-483d-970d-be059cb09a7a
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-6']/button}
+[INFO ] 2017-12-05 12:28:34,336 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 12:28:34,343 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 12:28:37,799 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-05 12:28:48,068 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-05 12:28:51,519 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:36:27,012 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 12:36:27,023 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 12:36:30,428 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-05 12:36:40,720 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-05 12:36:44,285 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:36:50,621 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-05 12:36:57,589 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:37:04,004 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-05 12:37:10,826 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:37:17,146 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-05 12:37:24,165 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:55:31,204 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-05 12:55:31,219 com.webtest.util.Log - firefox
+[INFO ] 2017-12-05 12:55:34,691 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-05 12:55:45,959 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-05 12:55:49,350 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-05 12:55:52,423 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-05 12:56:00,377 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 18:54:30,952 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 18:54:30,976 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 18:54:46,823 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 18:54:59,707 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 18:55:03,322 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 18:55:06,414 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 18:55:09,930 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: ±à¼­
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.qZYZDdG7vrRx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2072, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e1fcafe3-189e-407d-b124-9acda50b04e5
+*** Element info: {Using=link text, value=±à¼­}
+[INFO ] 2017-12-06 18:55:10,028 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='pri']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.qZYZDdG7vrRx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=2072, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e1fcafe3-189e-407d-b124-9acda50b04e5
+*** Element info: {Using=name, value=pri}
+[INFO ] 2017-12-06 18:58:50,385 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 18:58:50,400 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 18:58:54,930 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 18:59:09,301 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 18:59:13,166 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 18:59:16,238 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 18:59:27,006 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 18:59:30,129 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 18:59:53,846 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:07:48,898 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:07:48,913 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:07:53,275 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:08:06,001 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:08:09,942 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:08:13,021 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:08:22,560 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:08:25,678 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:08:47,387 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:08:50,513 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:08:59,565 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:09:02,703 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:09:11,489 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:09:14,600 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:09:23,094 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:09:26,213 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:09:34,982 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:09:38,108 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:09:46,671 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:18:57,002 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:18:57,011 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:19:12,803 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:19:25,330 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:19:34,392 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:19:37,514 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:21:59,638 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:21:59,655 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:22:15,364 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:22:27,552 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:22:36,512 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:22:39,633 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:25:25,668 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:25:25,686 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:25:41,840 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:25:54,527 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:30:41,576 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:30:41,591 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:30:46,049 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:30:56,820 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:31:09,073 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:31:12,207 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-06 19:31:25,670 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:42:48,160 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:42:48,179 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:43:03,824 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:43:19,080 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:43:23,004 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:43:26,114 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:43:33,402 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:43:36,600 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:43:36,649 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[42]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.9X9MhJULOAFN, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10912, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 1696fb07-5067-4d7c-8f1b-ea1bf811d795
+*** Element info: {Using=name, value=children[42]}
+[INFO ] 2017-12-06 19:43:40,102 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:45:46,977 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:45:47,003 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:45:51,471 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:46:03,994 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:46:08,158 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:46:11,280 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:46:18,680 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:46:21,838 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:46:38,921 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:46:42,056 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:46:45,583 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[1]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mR9UrInhpCGs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18144, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 97b371e0-f274-45af-a907-4d384da6485c
+*** Element info: {Using=name, value=children[1]}
+[INFO ] 2017-12-06 19:46:45,631 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[2]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mR9UrInhpCGs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18144, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 97b371e0-f274-45af-a907-4d384da6485c
+*** Element info: {Using=name, value=children[2]}
+[INFO ] 2017-12-06 19:46:45,678 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[3]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mR9UrInhpCGs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18144, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 97b371e0-f274-45af-a907-4d384da6485c
+*** Element info: {Using=name, value=children[3]}
+[INFO ] 2017-12-06 19:46:45,694 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[4]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mR9UrInhpCGs, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=18144, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 97b371e0-f274-45af-a907-4d384da6485c
+*** Element info: {Using=name, value=children[4]}
+[INFO ] 2017-12-06 19:46:49,051 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:46:52,174 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:46:55,659 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:50:10,261 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:50:10,284 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:50:26,034 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:50:38,628 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:50:43,342 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:50:46,456 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:50:53,867 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:50:57,087 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:51:05,283 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:52:58,802 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:52:58,815 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:53:03,103 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:53:18,985 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:53:22,986 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:53:26,124 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:53:33,472 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:53:36,633 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:53:53,973 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:53:57,082 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:54:04,637 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:54:07,767 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:54:11,228 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:54:14,373 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:54:14,437 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[42]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.YYyfEvOQGv6n, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10232, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 878e2f60-30a5-4c34-beaa-e81256a75cc2
+*** Element info: {Using=name, value=children[42]}
+[INFO ] 2017-12-06 19:54:17,874 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:56:53,645 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 19:56:53,665 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 19:56:57,784 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 19:57:09,804 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:57:13,806 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:57:16,952 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:57:20,862 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 19:57:24,010 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 19:57:27,611 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:08:27,812 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:08:27,826 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:08:43,554 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:08:56,004 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:09:00,006 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:09:03,123 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:09:07,048 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:09:10,169 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:09:14,272 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:10:05,678 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:10:05,697 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:10:21,654 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:10:33,929 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:10:37,990 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:10:41,115 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:10:45,036 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:10:48,177 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:11:09,075 com.webtest.util.Log - org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mHSFm2zIebf2, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 50a598ba-8c5b-4ae4-a8b8-38b0c29a3d04
+*** Element info: {Using=xpath, value=.//*[@id='rights3']}
+[INFO ] 2017-12-06 20:11:09,095 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mHSFm2zIebf2, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 50a598ba-8c5b-4ae4-a8b8-38b0c29a3d04
+*** Element info: {Using=xpath, value=.//*[@id='rights10']}
+[INFO ] 2017-12-06 20:11:09,110 com.webtest.util.Log - org.openqa.selenium.SessionNotCreatedException: Tried to run command without establishing a connection
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.mHSFm2zIebf2, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=19600, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 50a598ba-8c5b-4ae4-a8b8-38b0c29a3d04
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-12-06 20:11:34,562 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:11:34,569 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:11:38,770 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:11:50,971 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:11:55,165 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:11:58,279 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:12:02,224 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:12:05,713 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:12:13,356 com.webtest.util.Log - org.openqa.selenium.UnhandledAlertException: : 
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.ueBvXkbcB4kx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=8292, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ca7a9f79-bca4-4a78-b0da-8480e4992e05
+*** Element info: {Using=xpath, value=.//*[@id='submit']}
+[INFO ] 2017-12-06 20:21:10,878 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:21:10,902 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:21:26,842 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:21:41,706 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:21:49,717 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:21:52,855 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:21:56,694 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:22:36,286 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:22:36,307 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:22:40,653 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:22:57,137 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:23:05,532 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:23:08,635 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:24:15,241 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:24:15,261 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:24:19,549 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:24:31,862 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:24:40,204 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:27:05,062 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:27:05,085 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:27:20,828 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:27:32,893 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:27:40,897 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:27:41,029 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='treeMenuBox']/ul/li[2]/a[2]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Q6BDZvpNwPkO, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6544, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0bd4e199-91d5-43ff-879d-68fde21b9265
+*** Element info: {Using=xpath, value=.//*[@id='treeMenuBox']/ul/li[2]/a[2]}
+[INFO ] 2017-12-06 20:27:41,076 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[1]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Q6BDZvpNwPkO, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6544, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0bd4e199-91d5-43ff-879d-68fde21b9265
+*** Element info: {Using=name, value=children[1]}
+[INFO ] 2017-12-06 20:27:41,107 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[2]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Q6BDZvpNwPkO, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6544, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0bd4e199-91d5-43ff-879d-68fde21b9265
+*** Element info: {Using=name, value=children[2]}
+[INFO ] 2017-12-06 20:27:41,154 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[3]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Q6BDZvpNwPkO, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=6544, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 0bd4e199-91d5-43ff-879d-68fde21b9265
+*** Element info: {Using=name, value=children[3]}
+[INFO ] 2017-12-06 20:29:22,881 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:29:22,901 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:29:38,582 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:29:53,916 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:30:01,822 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:30:04,975 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:30:08,477 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[1]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SEvwf3s2LpWx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21428, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f5613295-6c9e-4097-b262-70b42a0fa507
+*** Element info: {Using=name, value=children[1]}
+[INFO ] 2017-12-06 20:30:08,535 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[2]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SEvwf3s2LpWx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21428, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f5613295-6c9e-4097-b262-70b42a0fa507
+*** Element info: {Using=name, value=children[2]}
+[INFO ] 2017-12-06 20:30:08,597 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[3]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.SEvwf3s2LpWx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=21428, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f5613295-6c9e-4097-b262-70b42a0fa507
+*** Element info: {Using=name, value=children[3]}
+[INFO ] 2017-12-06 20:30:12,208 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:31:08,351 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:31:08,364 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:31:24,489 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:31:36,374 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:31:44,396 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:31:47,548 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:31:55,134 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:40:33,374 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:40:33,398 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:40:49,112 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:41:03,834 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:41:07,922 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:41:11,043 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:41:14,849 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:41:17,990 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:41:25,191 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:51:15,735 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:51:15,750 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:51:19,322 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:51:19,339 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:51:21,238 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:52:27,252 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:52:27,285 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:52:43,053 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:52:54,727 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:52:59,342 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:53:02,476 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:53:07,066 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:53:10,196 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:53:18,165 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:53:24,622 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:53:33,298 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:54:39,403 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 20:54:39,414 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 20:54:43,718 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 20:54:56,239 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:55:01,025 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 20:55:04,200 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 20:55:07,737 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:07:29,109 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 21:07:29,136 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 21:07:34,250 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 21:07:47,504 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:07:51,852 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:07:54,988 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:08:25,706 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:12:34,507 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 21:12:34,527 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 21:12:50,261 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 21:13:02,233 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:13:06,455 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:13:09,607 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:13:13,537 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:51:56,304 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 21:51:56,320 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 21:52:00,895 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 21:52:13,437 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:52:17,529 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:52:20,664 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 21:52:24,710 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-06 21:52:28,278 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 22:10:36,568 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 22:10:36,589 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 22:10:52,736 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:11:07,226 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-06 22:14:45,718 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 22:14:45,735 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 22:14:46,063 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.GEq0Sb8fhTUK, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=3356, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 753240d7-0467-410f-b86f-806a2ec76420
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-06 22:15:01,889 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:15:06,444 com.webtest.util.Log - LoginFail successed
+[INFO ] 2017-12-06 22:15:21,766 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:15:25,874 com.webtest.util.Log - LoginSuccess successed
+[INFO ] 2017-12-06 22:16:23,500 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 22:16:23,523 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 22:16:23,804 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.NYYkdNlj04Dp, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20268, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 53ceddf4-091f-4de4-8036-4c861355cce3
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-06 22:16:28,027 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:16:44,842 com.webtest.util.Log - LoginFail failed
+[INFO ] 2017-12-06 22:16:48,579 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:16:58,406 com.webtest.util.Log - LoginSuccess successed
+[INFO ] 2017-12-06 22:19:20,258 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-06 22:19:20,274 com.webtest.util.Log - firefox
+[INFO ] 2017-12-06 22:19:20,743 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.BuAFKqy0bonx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=10772, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: ebae2003-1825-4fc7-895f-dc8c4b340510
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-06 22:19:36,540 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:19:38,915 com.webtest.util.Log - LoginFail successed
+[INFO ] 2017-12-06 22:19:54,407 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-06 22:20:00,579 com.webtest.util.Log - LoginSuccess successed
+[INFO ] 2017-12-08 08:18:17,206 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:18:17,263 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:18:21,869 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:18:35,904 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-08 08:18:45,987 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:18:49,117 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-08 08:21:30,503 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:21:30,517 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:21:35,087 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:21:46,849 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-08 08:21:58,621 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:22:01,814 com.webtest.util.Log - Entered iframe iframe-dashboard
+[INFO ] 2017-12-08 08:23:27,306 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:23:27,322 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:23:34,556 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:23:48,771 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:23:55,217 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:23:58,474 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:29:43,866 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:29:43,876 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:29:48,522 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:30:02,608 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:30:07,436 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:30:10,655 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:30:11,388 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:35:17,834 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:35:17,854 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:35:23,654 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:35:36,501 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:35:40,695 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:35:43,825 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:35:48,168 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:35:51,298 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:35:58,678 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:38:49,313 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:38:49,327 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:38:53,871 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:39:08,857 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:39:13,235 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:39:16,385 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:39:20,780 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:39:23,908 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 08:39:34,861 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 08:58:32,888 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 08:58:32,899 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 08:58:33,336 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.8cEscVOCHUBQ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=17432, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6df0d579-dd79-4c58-a607-4c2ec368e6a3
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 08:58:37,682 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 08:58:41,854 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 09:02:19,075 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 09:02:19,114 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 09:02:20,021 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.CFIvcKauMSMQ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=20748, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: abe5dfe8-35ff-4449-8d51-aa0ea584faa0
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 09:02:27,054 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 09:02:32,981 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 09:49:15,291 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 09:49:15,304 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 09:49:19,882 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 09:50:34,337 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 09:50:34,349 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 09:50:38,878 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 09:53:18,036 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 09:53:18,046 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 09:54:02,968 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 09:54:02,982 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 09:54:07,894 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:01:37,828 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:01:37,832 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:01:52,292 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:15:48,129 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:15:48,133 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:15:52,050 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:16:40,072 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:16:40,076 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:16:44,163 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:16:44,986 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-6']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.KgqEXjifVakl, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=23440, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 4a9484f6-0626-421b-800c-b4cdf159cf8c
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-6']/button}
+[INFO ] 2017-12-08 10:19:58,191 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:19:58,195 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:20:01,923 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:20:02,666 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: .//*[@id='s-menu-6']/button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Z9xvLmsPfaGh, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=16240, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 645b0c1a-e72e-4e83-8996-f62f1f5b0e7f
+*** Element info: {Using=xpath, value=.//*[@id='s-menu-6']/button}
+[INFO ] 2017-12-08 10:23:18,195 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:23:18,199 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:23:22,429 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:23:36,657 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:23:40,240 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:23:43,339 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:23:46,750 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:24:07,020 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:24:07,026 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:24:11,117 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:24:25,845 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:24:29,365 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:24:32,486 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:24:35,911 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:24:39,050 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:28:50,484 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:28:50,488 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:28:54,317 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:29:05,287 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:29:08,886 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:29:12,016 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:29:36,921 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:30:23,547 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:30:23,551 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:30:28,222 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:30:38,870 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:30:42,377 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:30:45,525 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:31:10,443 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:35:42,501 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:35:42,505 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:35:46,148 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:35:56,691 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:36:00,314 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:36:03,418 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:40:53,127 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:40:53,131 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:40:56,706 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:41:07,493 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:41:11,603 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:41:14,689 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:47:23,986 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:47:23,991 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:47:24,148 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.siRqxxgyd8Hf, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=13388, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5aaff77a-499b-44af-9064-bad06233c8c2
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 10:50:55,447 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:50:55,450 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:50:55,644 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.pVVuaxheNTU1, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11468, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 9109fdca-1384-4921-b6dc-8f4c9cdcf314
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 10:53:10,100 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:53:10,103 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:53:10,253 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.IErrx25mKCqg, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=22852, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 2f88893c-1344-4462-ac19-45797e692b0e
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 10:55:05,374 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:55:05,378 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:55:05,530 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: Ç©ÍË
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.Ta1geujiZQRE, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=11820, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: adf0ba31-0ac2-4746-b88e-677f7783b3ef
+*** Element info: {Using=link text, value=Ç©ÍË}
+[INFO ] 2017-12-08 10:55:09,147 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:55:13,575 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:58:36,216 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:58:36,224 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:58:39,950 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:58:50,115 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:58:53,608 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 10:59:13,060 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 10:59:13,065 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 10:59:16,561 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 10:59:26,880 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 10:59:30,378 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 11:03:19,911 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 11:03:19,914 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 11:03:32,593 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 11:05:25,259 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 11:05:25,265 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 11:05:29,012 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 11:05:43,239 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 11:05:46,665 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 11:05:49,729 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 11:05:53,037 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 11:06:21,060 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-08 11:06:21,083 com.webtest.util.Log - firefox
+[INFO ] 2017-12-08 11:06:24,813 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-08 11:06:39,235 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 11:06:42,855 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 11:06:45,985 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 11:06:49,410 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-08 11:06:52,505 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-08 11:07:03,324 com.webtest.util.Log - Left the iframe
