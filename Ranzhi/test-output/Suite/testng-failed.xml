@@ -6,32 +6,32 @@
   </listeners>
   <test name="Test(failed)">
     <classes>
-      <class name="com.user.waiting.WaitingtoWork">
+      <class name="com.admin.team.Boke">
         <methods>
-          <include name="zhipai"/>
-          <include name="me"/>
-          <include name="unfinished"/>
-          <include name="startUp"/>
+          <include name="FindBoke"/>
           <include name="doAfterMethod"/>
-          <include name="unfinishedWork"/>
-          <include name="others"/>
-          <include name="changeOpen"/>
-          <include name="daiding"/>
-          <include name="all"/>
-          <include name="changeFinish"/>
+          <include name="startUp"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.user.waiting.WaitingtoWork -->
-      <class name="com.user.work.WorkingTest">
+      </class> <!-- com.admin.team.Boke -->
+      <class name="com.admin.login.LoginTest">
         <methods>
-          <include name="doAfterMethod"/>
-          <include name="clickNamebutton2"/>
-          <include name="clickQuanxbutton"/>
+          <include name="LoginSuccess"/>
           <include name="startUp"/>
-          <include name="clickNamebutton1"/>
+          <include name="doAfterMethod"/>
+          <include name="Loginout"/>
+          <include name="LoginFail"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.user.work.WorkingTest -->
+      </class> <!-- com.admin.login.LoginTest -->
+      <class name="com.admin.team.Parterner">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="startUp"/>
+          <include name="SousuoPartener"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.admin.team.Parterner -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
