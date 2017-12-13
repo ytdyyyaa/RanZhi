@@ -19,13 +19,14 @@ public class LoginTest extends BaseTest {
 	}
 
 	@Test
-	public void LoginSuccess() {
+	public void LoginSuccess() throws InterruptedException {
 		login.loginByFront("dyc1", "123456");
+		
 		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
 	@Test
-	public void LoginFail() {
+	public void LoginFail() throws InterruptedException {
 		// 判断页面是不是有退出
 		boolean flag = webtest.isElementPresent("link=签退");
 		if (flag) {

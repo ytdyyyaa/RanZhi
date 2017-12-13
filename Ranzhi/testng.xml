@@ -2,13 +2,94 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<listeners>
-
 		<listener class-name="com.sendmail.Listener" />
-
 	</listeners>
 	<test name="Test">
 		<classes>
-			<class name="com.admin.login.LoginTest" />
+			<class name="com.admin.login.LoginTest"></class>
+			<class name="com.admin.team.Boke">
+				<methods>
+					<include name="beforeBoke"></include>
+					<include name="AddBoke"></include>
+					<include name="Check"></include>
+					<include name="FindBoke"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.LunTan">
+				<methods>
+					<include name="beforeLunTan"></include>
+					<include name="ChaKanTiezi"></include>
+					<include name="BianJiTZ"></include>
+					<include name="HuiTie"></include>
+					<include name="BanKuaiZhiDing"></include>
+					<include name="DeleteHuiTie"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.Parterner">
+				<methods>
+					<include name="ChakanPartener"></include>
+					<include name="ChakanERwm"></include>
+					<include name="ChakanRenshi"></include>
+					<include name="SousuoPartener"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.SettingsBankuai">
+				<methods>
+					<include name="beforeSettingsBankuai"></include>
+					<include name="AddBankuai"></include>
+					<include name="BianjiZibank"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.SettingsBoke">
+				<methods>
+					<include name="beforeSettingsBoke"></include>
+					<include name="addLeimu"></include>
+					<include name="BianjiBoke"></include>
+					<include name="AddZileimu"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.SettingsBumen">
+				<methods>
+					<include name="beforeSettingsBumen"></include>
+					<include name="clickteambutton"></include>
+					<include name="DeleteBumen"></include>
+					<include name="AddBumen"></include>
+				</methods>
+			</class>
+			<class name="com.admin.team.SettingsRole">
+				<methods>
+					<include name="beforeSettingsRole"></include>
+					<include name="addRole"></include>
+					<include name="changeRole"></include>
+				</methods>
+			</class>
+			<class name="com.user.waiting.WaitingtoWork">
+				<methods>
+					<include name="OpenAddName"></include>
+					<include name="unfinishedWork"></include>
+					<include name="all"></include>
+					<include name="zhipai"></include>
+					<include name="others"></include>
+					<include name="me"></include>
+					<include name="unfinished"></include>
+					<include name="daiding"></include>
+					<include name="changeFinish"></include>
+					<include name="changeOpen"></include>
+				</methods>
+			</class>
+			<class name="com.user.work.WorkingTest">
+				<methods>
+					<include name="clickworkbutton"></include>
+					<include name="clickbianhaobutton1"></include>
+					<include name="clickbianhaobutton2"></include>
+					<include name="clickPbutton1"></include>
+					<include name="clickPbutton2"></include>
+					<include name="clickNamebutton1"></include>
+					<include name="clickNamebutton2"></include>
+					<include name="clickQuanxbutton"></include>
+				</methods>
+			</class>
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

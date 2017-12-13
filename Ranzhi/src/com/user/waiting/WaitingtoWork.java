@@ -21,7 +21,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.click("xpath=.//*[@id='mainNavbar']/div/ul[2]/li[1]/a");
 	}
 
-	@Test(priority = 0)
+	@Test
 	public void OpenAddName() {
 		// 点击日历中某一天，进入到批量添加待办的页面
 		webtest.enterFrame("iframe-dashboard");
@@ -41,13 +41,13 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1)
+	@Test
 	public void unfinishedWork() {
 		webtest.enterFrame("iframe-dashboard");
 		// 点击待办，进入待办主页
 		webtest.click("link=待办");
 		// 查看未完成的任务
-		webtest.click("link=与客户取得联系");
+		webtest.click("link=地址的的");
 		// 点击编辑未完成任务的按钮
 		webtest.click("link=编辑");
 		// 修改优先级
@@ -61,7 +61,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 2)
+	@Test
 	public void all() {
 		webtest.enterFrame("iframe-dashboard");
 		// 点击待办，进入待办主页
@@ -71,7 +71,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(dependsOnMethods = "all")
+	@Test
 	public void zhipai() {
 		// 将任务指派给某人
 		webtest.enterFrame("iframe-dashboard");
@@ -82,7 +82,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 3)
+	@Test
 	public void others() {
 		webtest.enterFrame("iframe-dashboard");
 		// 点击待办，进入待办主页
@@ -92,7 +92,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 4)
+	@Test
 	public void me() {
 		webtest.enterFrame("iframe-dashboard");
 		// 点击待办，进入待办主页
@@ -112,7 +112,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 6)
+	@Test
 	public void daiding() {
 		webtest.enterFrame("iframe-dashboard");
 		// 点击待办，进入待办主页
@@ -122,7 +122,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 7)
+	@Test
 	public void changeFinish() {
 		// 将任务状态修改为完成
 		webtest.enterFrame("iframe-dashboard");
@@ -133,7 +133,7 @@ public class WaitingtoWork extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 8)
+	@Test
 	public void changeOpen() {
 		// 激活已完成的任务
 		webtest.enterFrame("iframe-dashboard");

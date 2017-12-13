@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name ="javacTest" default="transform" basedir=".">
+<project name ="javacTest" default="report" basedir=".">
 	<!-- 定义全局变量 -->
 	<!--将与业务实现有关的路径都设置为全局变量-->
 	<property name="dest" value="build/classes" />
@@ -10,7 +10,7 @@
 	     <fileset dir="lib" includes="*.jar"/>
 		 <pathelement location="${dest}"/>
 	</path>
-	    <path id="reportxsl.classpath" >
+	<path id="reportxsl.classpath" >
 	         <!-- adding the saxon jar to your classpath -->
 	        <fileset dir="${lib.dir}" includes="*.jar" />
 	</path>
@@ -19,6 +19,7 @@
 	
     <target name="clean">
         <delete dir="${dest}"/>
+    	<delete dir="F:\da3shang\shixun\Ranzhi\test-"/>
     </target>
     <!-- 编译 src目录 -->
     <target name="compile"  depends ="clean">
@@ -28,7 +29,7 @@
        </fileset>  
     </copy>
 	<mkdir dir ="${dest}"/>
-    	  <javac srcdir="src" destdir="${dest}"  classpathref="classes" includeantruntime="on"/>
+    	  <javac srcdir="src" destdir="${dest}"  classpathref="classes" includeantruntime="on" encoding="GBK"/>
     </target>
     <!-- 运行xml文档 -->
     <target name="run"  depends ="compile">
@@ -44,4 +45,15 @@
 			<classpath refid="reportxsl.classpath" />
 	    </xslt>
 	</target>
+	<target name="zip" depends="transform">
+		<zip destfile="F:\da3shang\shixun\Ranzhi\zip\zip.zip" basedir="F:\da3shang\shixun\Ranzhi\test-"/>
+	</target>
+	<target name="report" depends="zip">
+		<java classname ="com.sendmail.sendmailTest" classpathref="classes">
+		     <classpath>
+		          <pathelement path="${dest}"/>
+		      </classpath>
+		</java>
+	</target>
+	
 </project>

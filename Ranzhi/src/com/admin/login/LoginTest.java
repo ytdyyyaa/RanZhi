@@ -16,22 +16,30 @@ public class LoginTest extends BaseTest {
 		login = new Login_PageObject(webtest);
 	}
 
-	@Test
-	public void LoginSuccess() {
+	@Test(dependsOnMethods="LoginFail")
+	public void LoginSuccess() throws InterruptedException {
 		login.loginByFront("admin", "123456");
 		assertTrue(webtest.getHtmlSource().contains("Ç©ÍË"));
 	}
 
 	@Test
-	public void LoginFail() {
+	public void LoginFail() throws InterruptedException {
 		// ÅÐ¶ÏÒ³ÃæÊÇ²»ÊÇÓÐÍË³ö
 		boolean flag = webtest.isElementPresent("link=Ç©ÍË");
 		if (flag) {
 			webtest.click("linkText=Ç©ÍË");
 		}
-		login.loginByFront("admin", "1234560");
-		assertTrue(webtest.getHtmlSource().contains("µÇÂ¼Ê§°Ü"));
-		// assertTrue(webtest.getHtmlSource().contains("µÇÂ¼³É¹¦"));
+		login.loginByFront("admin", "123");
+//		assertTrue(webtest.getHtmlSource().contains("µÇÂ¼Ê§°Ü"));
+		 assertTrue(webtest.getHtmlSource().contains("µÇÂ¼³É¹¦"));
+
+	}
+
+	@Test(dependsOnMethods="LoginSuccess")
+	public void Loginout() {
+		// µÇÂ¼ºóÇ©ÍË
+		webtest.click("link=Ç©ÍË");
+		assertTrue(webtest.getHtmlSource().contains("ÓÃ»§Ãû"));
 
 	}
 

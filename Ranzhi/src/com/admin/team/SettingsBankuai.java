@@ -22,8 +22,8 @@ public class SettingsBankuai extends BaseTest {
 		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
-	@Test(priority = 0)
-	public void before() {
+	@Test
+	public void beforeSettingsBankuai() {
 		// 点击团队，进入团队页面
 		System.out.println("num1");
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
@@ -38,7 +38,7 @@ public class SettingsBankuai extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1, dataProvider = "Bankuai", dataProviderClass = Bankuai.class,dependsOnMethods="before")
+	@Test(dataProvider = "Bankuai", dataProviderClass = Bankuai.class)
 	public void AddBankuai(String bk1, String bk2, String bk3) {
 		// 使用数据驱动的方式，添加论坛板块
 		webtest.enterFrame("iframe-6");
@@ -49,7 +49,7 @@ public class SettingsBankuai extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 2,dependsOnMethods="before")
+	@Test
 	public void BianjiZibank() {
 		// 编辑子版块1
 		webtest.enterFrame("iframe-6");
@@ -67,7 +67,7 @@ public class SettingsBankuai extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 3, dataProvider = "apple", dataProviderClass = SettingZiBank.class,dependsOnMethods="before")
+	@Test( dataProvider = "apple", dataProviderClass = SettingZiBank.class)
 	public void AddZiBank(String apple1, String apple2, String apple3) {
 		webtest.enterFrame("iframe-6");
 		// 添加子版块,点击子版块按钮

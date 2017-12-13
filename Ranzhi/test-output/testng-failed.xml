@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.sendmail.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
     <classes>
-      <class name="com.admin.team.SettingsRole">
+      <class name="com.user.waiting.WaitingtoWork">
         <methods>
-          <include name="before"/>
+          <include name="zhipai"/>
+          <include name="me"/>
+          <include name="unfinished"/>
           <include name="startUp"/>
-          <include name="addRole"/>
+          <include name="doAfterMethod"/>
+          <include name="unfinishedWork"/>
+          <include name="others"/>
+          <include name="changeOpen"/>
+          <include name="daiding"/>
+          <include name="all"/>
+          <include name="changeFinish"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.admin.team.SettingsRole -->
+      </class> <!-- com.user.waiting.WaitingtoWork -->
+      <class name="com.user.work.WorkingTest">
+        <methods>
+          <include name="doAfterMethod"/>
+          <include name="clickNamebutton2"/>
+          <include name="clickQuanxbutton"/>
+          <include name="startUp"/>
+          <include name="clickNamebutton1"/>
+          <include name="doBeforeMethod"/>
+        </methods>
+      </class> <!-- com.user.work.WorkingTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

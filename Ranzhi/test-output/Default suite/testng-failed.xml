@@ -3,14 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.admin.team.SettingsRole">
+      <class name="com.admin.login.LoginTest">
         <methods>
-          <include name="before"/>
+          <include name="LoginSuccess"/>
           <include name="startUp"/>
-          <include name="addRole"/>
+          <include name="doAfterMethod"/>
+          <include name="Loginout"/>
+          <include name="LoginFail"/>
           <include name="doBeforeMethod"/>
         </methods>
-      </class> <!-- com.admin.team.SettingsRole -->
+      </class> <!-- com.admin.login.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

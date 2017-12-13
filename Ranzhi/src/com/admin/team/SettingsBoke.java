@@ -20,8 +20,8 @@ public class SettingsBoke extends BaseTest {
 		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
-	@Test(priority = 0)
-	public void before() {
+	@Test
+	public void beforeSettingsBoke() {
 		// 点击团队，进入团队页面
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
 		assertTrue(webtest.getHtmlSource().contains("最新帖子"));
@@ -37,7 +37,7 @@ public class SettingsBoke extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1, dependsOnMethods = "before")
+	@Test
 	public void addLeimu() {
 		// 添加博客类目
 		webtest.enterFrame("iframe-6");
@@ -49,7 +49,7 @@ public class SettingsBoke extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1, dependsOnMethods = "before")
+	@Test
 	public void BianjiBoke() {
 		// 编辑“包子”博客类目
 		webtest.enterFrame("iframe-6");
@@ -64,8 +64,8 @@ public class SettingsBoke extends BaseTest {
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();
 	}
-	
-	@Test(priority = 2, dependsOnMethods = "before")
+
+	@Test
 	public void AddZileimu() {
 		// 添加“饺子”的子类目
 		webtest.enterFrame("iframe-6");

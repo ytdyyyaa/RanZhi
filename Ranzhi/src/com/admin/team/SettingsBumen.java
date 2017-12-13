@@ -22,8 +22,8 @@ public class SettingsBumen extends BaseTest {
 		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
-	@Test(priority = 0)
-	public void before() {
+	@Test
+	public void beforeSettingsBumen() {
 		// 点击团队，进入团队页面
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
 		assertTrue(webtest.getHtmlSource().contains("最新帖子"));
@@ -38,7 +38,7 @@ public class SettingsBumen extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1,dependsOnMethods="before")
+	@Test
 	public void clickteambutton() {
 		// 编辑销售部
 		webtest.enterFrame("iframe-6");
@@ -51,7 +51,7 @@ public class SettingsBumen extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 2, dataProvider = "children", dataProviderClass = Children.class,dependsOnMethods="before")
+	@Test( dataProvider = "children", dataProviderClass = Children.class)
 	public void ZiBumen(String children1, String children2, String children3, String children4) {
 		// 使用数据驱动添加子部门
 		webtest.enterFrame("iframe-6");
@@ -64,7 +64,7 @@ public class SettingsBumen extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 3,dependsOnMethods="before")
+	@Test
 	public void DeleteBumen() {
 		// 删除技术部下第一个子部门
 		webtest.enterFrame("iframe-6");
@@ -73,11 +73,12 @@ public class SettingsBumen extends BaseTest {
 		webtest.alertAccept();
 		webtest.leaveFrame();
 	}
-	
-	@Test(priority = 4,dependsOnMethods="before")
+
+	@Test
 	public void AddBumen() {
 		// 添加部门
 		webtest.enterFrame("iframe-6");
+		webtest.click("xpath=html/body/nav[2]/ul/li[3]/a");
 		webtest.type("name=children[42]", "广告部");
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();

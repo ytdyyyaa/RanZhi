@@ -18,7 +18,7 @@ public class WorkingTest extends BaseTest {
 		assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
-	@Test(priority = 0)
+	@Test
 	public void clickworkbutton() {
 		// 查看任务界面
 		webtest.click("xpath=.//*[@id='mainNavbar']/div/ul[2]/li[2]/a");
@@ -27,7 +27,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1)
+	@Test
 	public void clickbianhaobutton1() {
 		// 按编号大小排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -35,7 +35,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 2)
+	@Test
 	public void clickbianhaobutton2() {
 		// 按编号大小排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -43,7 +43,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 3)
+	@Test
 	public void clickPbutton1() {
 		// 按任务优先级排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -51,7 +51,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 4)
+	@Test
 	public void clickPbutton2() {
 		// 按任务优先级排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -59,7 +59,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 5)
+	@Test
 	public void clickNamebutton1() {
 		// 按名称排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -67,7 +67,7 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 6)
+	@Test
 	public void clickNamebutton2() {
 		// 按名称排列任务顺序
 		webtest.enterFrame("iframe-dashboard");
@@ -75,16 +75,14 @@ public class WorkingTest extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 7)
+	@Test
 	public void clickQuanxbutton() {
 		// 点击全选按钮
 		webtest.enterFrame("iframe-dashboard");
 		webtest.click("xpath=.//*[@id='allchecker']");
 		// 点击反选按钮
-		webtest.enterFrame("iframe-dashboard");
 		webtest.click("xpath=.//*[@id='reversechecker']");
 		webtest.leaveFrame();
 	}
-
 
 }

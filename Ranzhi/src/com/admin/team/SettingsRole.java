@@ -18,8 +18,8 @@ public class SettingsRole extends BaseTest {
 		// assertTrue(webtest.getHtmlSource().contains("签退"));
 	}
 
-	@Test(priority = 0)
-	public void before() throws InterruptedException {
+	@Test
+	public void beforeSettingsRole() throws InterruptedException {
 		// 点击团队，进入团队页面
 		webtest.click("xpath=.//*[@id='s-menu-6']/button");
 		Thread.sleep(4000);
@@ -35,8 +35,9 @@ public class SettingsRole extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 1, dependsOnMethods = "before")
+	@Test(dependsOnMethods = "beforeSettingsRole")
 	public void addRole() throws InterruptedException {
+		// 添加角色
 		webtest.enterFrame("iframe-6");
 		webtest.click("xpath=.//*[@id='ajaxForm']/div/table/tbody/tr[2]/td[3]/a");
 		webtest.type("xpath=.//*[@id='ajaxForm']/div/table/tbody/tr[3]/td[1]/input[1]", "BL1");
@@ -46,10 +47,11 @@ public class SettingsRole extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test(priority = 2, dependsOnMethods = "before")
+	@Test( dependsOnMethods = "beforeSettingsRole")
 	public void changeRole() {
+		// 修改角色值
 		webtest.enterFrame("iframe-6");
-		webtest.type("xpath=.//*[@id='values[]']", "研发yanfa");
+		webtest.type("xpath=.//*[@id='ajaxForm']/div/table/tbody/tr[3]/td[2]/div/input", "研发yanfa");
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();
 	}

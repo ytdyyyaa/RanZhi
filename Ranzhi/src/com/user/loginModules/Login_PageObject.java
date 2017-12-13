@@ -13,11 +13,13 @@ public class Login_PageObject {
 		// TODO Auto-generated constructor stub
 	}
 
-	public void loginByFront(String username, String password) {
+	public void loginByFront(String username, String password) throws InterruptedException {
 		webtest.open("http://127.0.0.1/ranzhi/sys/user-login.html");
 		login.userName.sendKeys(username);
 		login.passWord.sendKeys(password);
 		login.btnLogin.click();
+		Thread.sleep(3000);
+		
 	}
 
 }

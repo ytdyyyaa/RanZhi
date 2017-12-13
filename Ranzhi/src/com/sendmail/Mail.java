@@ -89,6 +89,7 @@ public class Mail {
 		DataSource file = new FileDataSource(new File(filePath));
 		attachment.setDataHandler(new DataHandler(file));
 		attachment.setFileName(fileName);
+		
 		multipart.addBodyPart(attachment);
 		message.setContent(multipart);
 	}
