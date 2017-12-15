@@ -6368,3 +6368,60 @@ Session ID: f8211110-5ca8-4f14-9a92-b540e42d834b
 [INFO ] 2017-12-13 16:50:24,545 com.webtest.util.Log - unfinished successed
 [INFO ] 2017-12-13 16:50:29,280 com.webtest.util.Log - Quitted Browser
 [INFO ] 2017-12-13 16:51:57,894 com.webtest.util.Log - E-mail send
+[INFO ] 2017-12-15 08:24:34,187 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-15 08:24:34,218 com.webtest.util.Log - firefox
+[INFO ] 2017-12-15 08:24:37,925 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-15 08:24:48,144 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:24:51,513 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:24:54,613 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:24:57,950 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:25:01,031 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:25:01,131 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[14]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.XHem9Bhheskr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15652, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a083b23a-d693-49f3-b3dc-9d55c9aab83a
+*** Element info: {Using=name, value=children[14]}
+[INFO ] 2017-12-15 08:25:01,150 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[15]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.XHem9Bhheskr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15652, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a083b23a-d693-49f3-b3dc-9d55c9aab83a
+*** Element info: {Using=name, value=children[15]}
+[INFO ] 2017-12-15 08:25:01,153 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[16]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.XHem9Bhheskr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15652, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a083b23a-d693-49f3-b3dc-9d55c9aab83a
+*** Element info: {Using=name, value=children[16]}
+[INFO ] 2017-12-15 08:25:01,169 com.webtest.util.Log - org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='children[17]']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.6.0', revision: '6fbf3ec767', time: '2017-09-27T16:15:40.131Z'
+System info: host: 'DESKTOP-RVOGGDU', ip: '192.168.152.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\WINDOWS\TEMP\rust_mozprofile.XHem9Bhheskr, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=true, browserVersion=55.0.3, platformVersion=10.0, moz:processID=15652, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a083b23a-d693-49f3-b3dc-9d55c9aab83a
+*** Element info: {Using=name, value=children[17]}
+[INFO ] 2017-12-15 08:25:04,474 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:25:18,311 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-15 08:42:37,338 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-15 08:42:37,346 com.webtest.util.Log - firefox
+[INFO ] 2017-12-15 08:42:40,725 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-15 08:42:50,690 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:42:54,135 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:42:57,223 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:43:21,447 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:43:30,899 com.webtest.util.Log - Quitted Browser
+[INFO ] 2017-12-15 08:44:31,200 com.webtest.util.Log - Using Firefox
+[INFO ] 2017-12-15 08:44:31,206 com.webtest.util.Log - firefox
+[INFO ] 2017-12-15 08:44:34,969 com.webtest.util.Log - Opened url http://127.0.0.1/ranzhi/sys/user-login.html
+[INFO ] 2017-12-15 08:44:45,367 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:44:48,754 com.webtest.util.Log - Left the iframe
+[INFO ] 2017-12-15 08:44:51,870 com.webtest.util.Log - Entered iframe iframe-6
+[INFO ] 2017-12-15 08:45:16,036 com.webtest.util.Log - Left the iframe

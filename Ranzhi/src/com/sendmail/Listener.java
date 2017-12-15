@@ -29,7 +29,7 @@ public class Listener extends TestListenerAdapter {
 		sendmailTest a = new sendmailTest();
 		try {
 			// 发送邮件的标题和内容
-			a.sendMail("运行失败的方法是：", msg,"1497277185@qq.com");
+			a.sendMail("运行失败的方法是：", msg, "1497277185@qq.com");
 		} catch (MessagingException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -48,13 +48,12 @@ public class Listener extends TestListenerAdapter {
 		Log.info(msg);
 
 	}
-	
+
 	@Override
 	public void onFinish(ITestContext testContext) {
 		// TODO Auto-generated method stub
 		super.onFinish(testContext);
-	
-		
+
 	}
 
 }

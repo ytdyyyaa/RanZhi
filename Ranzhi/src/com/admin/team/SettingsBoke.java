@@ -9,6 +9,8 @@ import com.user.loginModules.Login_Action;
 import com.webtest.core.BaseTest;
 
 import Data.Children;
+import Data.LeiMu;
+import Data.SettingZiBank;
 
 public class SettingsBoke extends BaseTest {
 	Login_Action login = null;
@@ -37,14 +39,14 @@ public class SettingsBoke extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test
-	public void addLeimu() {
-		// 添加博客类目
+	@Test( dataProvider = "leimu", dataProviderClass = LeiMu.class)
+	public void addLeimu(String l14,String l15,String l16,String l17) {
+		// 使用数据驱动，添加博客类目
 		webtest.enterFrame("iframe-6");
-		webtest.type("name=children[14]", "类目14");
-		webtest.type("name=children[15]", "类目15");
-		webtest.type("name=children[16]", "类目16");
-		webtest.type("name=children[17]", "类目17");
+		webtest.type("name=children[14]", l14);
+		webtest.type("name=children[15]", l15);
+		webtest.type("name=children[16]", l16);
+		webtest.type("name=children[17]", l17);
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();
 	}

@@ -89,7 +89,6 @@
 					<include name="clickQuanxbutton"></include>
 				</methods>
 			</class>
-
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

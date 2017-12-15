@@ -72,7 +72,7 @@ public class SettingsBankuai extends BaseTest {
 		webtest.enterFrame("iframe-6");
 		// 添加子版块,点击子版块按钮
 		webtest.click("xpath=.//*[@id='treeMenuBox']/ul/li[1]/a[2]");
-		// 添加子版块
+		// 使用数据驱动的方式，添加子版块
 		webtest.type("name=children[40]", apple1);
 		webtest.type("name=children[41]", apple2);
 		webtest.type("name=children[42]", apple3);

@@ -9,6 +9,9 @@ import org.testng.annotations.Test;
 import com.user.loginModules.Login_Action;
 import com.webtest.core.BaseTest;
 
+import Data.Bankuai;
+import Data.TJboke;
+
 public class Boke extends BaseTest {
 	Login_Action login = null;
 
@@ -31,9 +34,9 @@ public class Boke extends BaseTest {
 		webtest.leaveFrame();
 	}
 
-	@Test
-	public void AddBoke() {
-		// 进入添加博客页面
+	@Test(dataProvider = "boke", dataProviderClass = TJboke.class,dependsOnMethods="beforeBoke")
+	public void AddBoke(String bt,String gjz,String content) {
+		// 进入添加博客页面，使用数据驱动，添加博客的信息
 		webtest.enterFrame("iframe-6");
 		webtest.click("link=添加博客");
 		// 选择类目
@@ -45,14 +48,12 @@ public class Boke extends BaseTest {
 		// 选择授权分组
 		webtest.click("xpath=.//*[@id='groups1']");
 		// 输入标题
-		webtest.type("xpath=.//*[@id='title']", "新加博客标题");
+		webtest.type("xpath=.//*[@id='title']", bt);
 		// 输入关键字
-		webtest.type("xpath=.//*[@id='keywords']", "关键字");
+		webtest.type("xpath=.//*[@id='keywords']", gjz);
 		// 输入内容
 		webtest.tabPress();
-		webtest.actionSendKeys("博客内容");
-		// webtest.tabPress();
-		// webtest.enter();
+		webtest.actionSendKeys(content);
 		webtest.click("xpath=.//*[@id='submit']");
 		webtest.leaveFrame();
 	}
