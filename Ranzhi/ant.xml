@@ -48,6 +48,7 @@
 	<target name="zip" depends="transform">
 		<zip destfile="F:\da3shang\shixun\Ranzhi\zip\zip.zip" basedir="F:\da3shang\shixun\Ranzhi\test-"/>
 	</target>
+	<!-- 运行xml文档 -->
 	<target name="report" depends="zip">
 		<java classname ="com.sendmail.sendmailTest" classpathref="classes">
 		     <classpath>
